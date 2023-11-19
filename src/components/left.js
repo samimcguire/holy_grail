@@ -7,3 +7,5 @@ function Left(props){
         </aside>
     </>);
 }
+
+export default Left;

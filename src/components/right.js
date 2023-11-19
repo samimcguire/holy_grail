@@ -7,3 +7,5 @@ function Right(props){
         </aside>
     </>);
 }
+
+export default Right;
