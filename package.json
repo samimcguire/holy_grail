@@ -36,6 +36,7 @@
       "last 1 safari version"
     ]
   },
+  "proxy": "http://localhost:3000",
   "description": "node app for holy grail",
   "main": "index.js",
   "author": "samimcguire@gmail.com",

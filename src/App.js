@@ -1,12 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import Article from './components/article';
 import Footer from './components/footer';
 import Header from './components/header';
 import Left from './components/left';
 import Right from './components/right';
-import PlusMinus from './components/plusminus';
-import Data from './components/data';
 import { useState } from 'react';
 
 
