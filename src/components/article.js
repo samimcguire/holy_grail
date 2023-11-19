@@ -1,3 +1,6 @@
+import PlusMinus from "./plusminus";
+import Data from "./data";
+
 function Article(props){
     return (<>
         <article> 
